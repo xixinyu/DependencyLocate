@@ -1,0 +1,10 @@
+C:\Work\application for test\DependencyLocate\DependencyLocate\bin\Debug\DependencyLocate.exe.config
+C:\Work\application for test\DependencyLocate\DependencyLocate\bin\Debug\Config.xml
+C:\Work\application for test\DependencyLocate\DependencyLocate\bin\Debug\DependencyLocate.exe
+C:\Work\application for test\DependencyLocate\DependencyLocate\bin\Debug\DependencyLocate.pdb
+C:\Work\application for test\DependencyLocate\DependencyLocate\obj\Debug\DependencyLocate.csprojResolveAssemblyReference.cache
+C:\Work\application for test\DependencyLocate\DependencyLocate\obj\Debug\DependencyLocate.Form1.resources
+C:\Work\application for test\DependencyLocate\DependencyLocate\obj\Debug\DependencyLocate.Properties.Resources.resources
+C:\Work\application for test\DependencyLocate\DependencyLocate\obj\Debug\DependencyLocate.csproj.GenerateResource.Cache
+C:\Work\application for test\DependencyLocate\DependencyLocate\obj\Debug\DependencyLocate.exe
+C:\Work\application for test\DependencyLocate\DependencyLocate\obj\Debug\DependencyLocate.pdb
