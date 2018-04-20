@@ -8,3 +8,11 @@ C:\Work\application for test\DependencyLocate\DependencyLocate\obj\Debug\Depende
 C:\Work\application for test\DependencyLocate\DependencyLocate\obj\Debug\DependencyLocate.csproj.GenerateResource.Cache
 C:\Work\application for test\DependencyLocate\DependencyLocate\obj\Debug\DependencyLocate.exe
 C:\Work\application for test\DependencyLocate\DependencyLocate\obj\Debug\DependencyLocate.pdb
+C:\Work\application for test\DependencyLocate\DependencyLocate\bin\Debug\xunit.abstractions.dll
+C:\Work\application for test\DependencyLocate\DependencyLocate\bin\Debug\xunit.assert.dll
+C:\Work\application for test\DependencyLocate\DependencyLocate\bin\Debug\xunit.core.dll
+C:\Work\application for test\DependencyLocate\DependencyLocate\bin\Debug\xunit.execution.desktop.dll
+C:\Work\application for test\DependencyLocate\DependencyLocate\bin\Debug\xunit.abstractions.xml
+C:\Work\application for test\DependencyLocate\DependencyLocate\bin\Debug\xunit.assert.xml
+C:\Work\application for test\DependencyLocate\DependencyLocate\bin\Debug\xunit.core.xml
+C:\Work\application for test\DependencyLocate\DependencyLocate\bin\Debug\xunit.execution.desktop.xml

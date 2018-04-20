@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using DependencyLocate.Example2;
 
 namespace DependencyLocate
 {
@@ -35,8 +34,6 @@ namespace DependencyLocate
 
         private void button3_Click(object sender, EventArgs e)
         {
-            TestClient t = new TestClient();
-            t.Test();
         }
     }
 }
